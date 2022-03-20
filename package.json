@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/James404-cyber/Tes.git"
+    "url": "git+https://github.com/Sarfraz-Ssb/Tes.git"
   },
-  "author": "Mr.James",
+  "author": "Sarfraz.Baloch",
   "license": "MIT",
   "dependencies": {
     "axios-proxy-fix": "^0.16.3",
@@ -18,7 +18,7 @@
     "uuid": "^3.3.2"
   },
   "bugs": {
-    "url": "https://github.com/James404-cyber/Tes/issues"
+    "url": "https://github.com/Sarfraz-Ssb/Tes/issues"
   },
-  "homepage": "https://github.com/James404-cyber/Tes#readme"
+  "homepage": "https://github.com/Sarfraz-Ssb/Tes#readme"
 }
